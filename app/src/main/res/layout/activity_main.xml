@@ -87,5 +87,19 @@
         app:layout_constraintTop_toBottomOf="@+id/imageView1"
         app:layout_constraintVertical_bias="0.851" />
 
+    <Button
+        android:id="@+id/search"
+        android:layout_width="291dp"
+        android:layout_height="43dp"
+        android:background="#fff"
+        android:text="Search for video or product..."
+        android:textAllCaps="false"
+        android:textColor="#333"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView1"
+        app:layout_constraintVertical_bias="0.269" />
 
 </android.support.constraint.ConstraintLayout>
