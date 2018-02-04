@@ -16,7 +16,7 @@
 
     <ImageView
         android:id="@+id/imageView1"
-        android:layout_height:
+        android:layout_height="0dp"
         android:src="@drawable/home_depot_logo"
         android:layout_width="300dp"/>
 
